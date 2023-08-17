@@ -4,7 +4,7 @@ public class _01_multiple_tables {
         int i;
         int j;
         for (i=0; i < 10; i++) {
-            System.out.println(i + " 단 구구단");
+            System.out.println(i + " row multiple table");
             for (j=0; j < 10; j++) {
                 System.out.printf("%d * %d = %d", i, j, i * j).println();
             }
