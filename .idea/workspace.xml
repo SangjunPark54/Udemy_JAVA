@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a55e096-842c-4354-867d-5d46663379d3" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7a55e096-842c-4354-867d-5d46663379d3" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,13 +39,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Libraries",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/github/Udemy_JAVA",
+    "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.41149426",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "configurable.group.build.android"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.multiple_tables">
+  <component name="RunManager" selected="애플리케이션._02_if">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <method v="2">
@@ -59,6 +58,32 @@
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="udemy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_multiple_tables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy._01_multiple_tables" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy._02_if" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,14 +114,16 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.multiple_tables" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="애플리케이션.multiple_tables" />
+      <item itemvalue="애플리케이션.Main" />
+      <item itemvalue="애플리케이션.Main (1)" />
+      <item itemvalue="애플리케이션._01_multiple_tables" />
+      <item itemvalue="애플리케이션._02_if" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="애플리케이션._02_if" />
+        <item itemvalue="애플리케이션._01_multiple_tables" />
       </list>
     </recent_temporary>
   </component>

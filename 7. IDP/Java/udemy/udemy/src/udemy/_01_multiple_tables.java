@@ -1,5 +1,4 @@
 package udemy;
-
 public class _01_multiple_tables {
     public static void main (String[] args) {
         int i;
