@@ -4,6 +4,7 @@
     <JAVADOC />
     <SOURCES>
       <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src" />
     </SOURCES>
   </library>
 </component>
