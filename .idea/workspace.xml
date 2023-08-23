@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a55e096-842c-4354-867d-5d46663379d3" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section5/_01_JavaPlatform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section5/_02_ClassAndObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section5/_03_Complie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/src.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section6/_00_project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section6/_02_multiTableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section6/_03_Refactoring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section8/_00_ObjectOrientedProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section8/_01_Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section8/_02_MotorBikeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section8/_03_MotorBikeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section8/_04_Exercies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section8/_04_Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section4/_06_multiParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section4/_06_multiParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/_01_multiple_tables.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section6/_01_multiple_tables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +32,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
@@ -59,22 +64,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "/Users/a10941/workspace/1.github/Udemy_JAVA",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.41149426",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "build.tools"
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._03_Complie$planet">
+  <component name="RunManager" selected="Application._04_Runner">
     <configuration name="_01_multiple_tables" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy._01_multiple_tables" />
+      <option name="MAIN_CLASS_NAME" value="udemy.section6._01_multiple_tables" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.*" />
+          <option name="PATTERN" value="udemy.section6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_02_ClassAndObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.section5._02_ClassAndObject" />
+    <configuration name="_02_multiTableRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section6._02_multiTableRunner" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.section5.*" />
+          <option name="PATTERN" value="udemy.section6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_Complie$planet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.section5._03_Complie$planet" />
+    <configuration name="_03_MotorBikeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section8._03_MotorBikeRunner" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.section5.*" />
+          <option name="PATTERN" value="udemy.section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_if_condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy._03_if_condition" />
+    <configuration name="_03_Refactoring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section6._03_Refactoring" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.*" />
+          <option name="PATTERN" value="udemy.section6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy._04_exercises" />
+    <configuration name="_04_Exercies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section8._04_Exercies" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.*" />
+          <option name="PATTERN" value="udemy.section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_06_multiParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.section4._06_multiParameters" />
+    <configuration name="_04_Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section8._04_Runner" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.section4.*" />
+          <option name="PATTERN" value="udemy.section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,19 +181,19 @@
     <list>
       <item itemvalue="Application._01_multiple_tables" />
       <item itemvalue="Application.multiple_tables" />
-      <item itemvalue="Application._02_ClassAndObject" />
-      <item itemvalue="Application._03_Complie$planet" />
-      <item itemvalue="Application._03_if_condition" />
-      <item itemvalue="Application._04_exercises" />
-      <item itemvalue="Application._06_multiParameters" />
+      <item itemvalue="Application._03_MotorBikeRunner" />
+      <item itemvalue="Application._04_Exercies" />
+      <item itemvalue="Application._04_Runner" />
+      <item itemvalue="Application._02_multiTableRunner" />
+      <item itemvalue="Application._03_Refactoring" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._03_Complie$planet" />
-        <item itemvalue="Application._02_ClassAndObject" />
-        <item itemvalue="Application._06_multiParameters" />
-        <item itemvalue="Application._04_exercises" />
-        <item itemvalue="Application._03_if_condition" />
+        <item itemvalue="Application._04_Runner" />
+        <item itemvalue="Application._03_MotorBikeRunner" />
+        <item itemvalue="Application._04_Exercies" />
+        <item itemvalue="Application._03_Refactoring" />
+        <item itemvalue="Application._02_multiTableRunner" />
       </list>
     </recent_temporary>
   </component>
