@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a55e096-842c-4354-867d-5d46663379d3" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/BiNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/Bigdecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/DataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/Floating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/PostiPrei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/SimpleInterestCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +66,7 @@
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise1">
+  <component name="RunManager" selected="Application.Runner">
     <configuration name="BiNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="udemy.section9.BiNumber" />
       <module name="udemy" />
@@ -124,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_01_multiple_tables" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.section6._01_multiple_tables" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.test.Runner" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.section6.*" />
+          <option name="PATTERN" value="udemy.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.section8._04_Runner" />
+    <configuration name="_01_multiple_tables" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section6._01_multiple_tables" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.section8.*" />
+          <option name="PATTERN" value="udemy.section6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,15 +177,15 @@
       <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.Exercise1" />
       <item itemvalue="Application.Floating" />
-      <item itemvalue="Application._04_Runner" />
+      <item itemvalue="Application.Runner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Floating" />
         <item itemvalue="Application.BiNumber" />
-        <item itemvalue="Application._04_Runner" />
       </list>
     </recent_temporary>
   </component>
