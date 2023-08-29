@@ -1,21 +1,24 @@
 package udemy.test;
 
-public class Controller {
-    private int speed;
-    private int level;
+import java.math.BigDecimal;
 
-    public Controller (int speed, int level) {
-        this.speed = speed;
-        this.level = level;
+public class Controller {
+    private BigDecimal speed;
+    private BigDecimal level;
+
+    public Controller (String speed, String level) {
+        this.speed = new BigDecimal(speed);
+        this.level = new BigDecimal(level);
     }
-    public int getSpeed() {
+    public BigDecimal getSpeed() {
         return this.speed;
     }
     public void start () {
         System.out.println("Bike Started");
     }
 
-    public void increaseLevel () {
-        this.speed += this.level;
+    public BigDecimal increaseLevel () {
+        BigDecimal totalSpeed = speed.add(level);
+        return totalSpeed;
     }
 }

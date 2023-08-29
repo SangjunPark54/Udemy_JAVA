@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a55e096-842c-4354-867d-5d46663379d3" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/MyChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +69,9 @@
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Runner">
-    <configuration name="BiNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.section9.BiNumber" />
+  <component name="RunManager" selected="Application.Character">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section9.Calculator" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.section9.Calculator" />
+    <configuration name="Character" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section9.Character" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
@@ -173,19 +176,19 @@
     <list>
       <item itemvalue="Application._01_multiple_tables" />
       <item itemvalue="Application.multiple_tables" />
-      <item itemvalue="Application.BiNumber" />
       <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.Character" />
       <item itemvalue="Application.Exercise1" />
       <item itemvalue="Application.Floating" />
       <item itemvalue="Application.Runner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Character" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Floating" />
-        <item itemvalue="Application.BiNumber" />
       </list>
     </recent_temporary>
   </component>
