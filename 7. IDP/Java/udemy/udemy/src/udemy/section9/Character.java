@@ -11,22 +11,27 @@ public class Character {
 
     public static void main(String[] args) {
         char ch4 = 65;
-        char ch5;
+        char ch5 = 'G';
         char ch6;
         ch5 = ch4++;
         ch6 = (char) (ch4 + 5);
+        char ch8 = '%';
         // ch4++; ch5 + 5;와 같은 연산도 가능.
 
-
         MyChar myChar = new MyChar('U');
+//        myChar.isConsonant();
         System.out.println(myChar.isVowel());
         System.out.println(myChar.isNumber());
-
+        System.out.println(myChar.isAlphabet());
+        System.out.println(myChar.isConsonant());
+        MyChar.printLowerCaseAlphabets();
+        // static 메서드
+        // 클래스에 있는 문자를 신경쓰지 않음. > 정적 메소드를 사용
+        MyChar.printUperCaseAlphabets();
 
         //'a','e','i','o','u' and Capitals
 //        System.out.println(myChar.isAlphabet());
 //        MyChar.printLowerCaseAlphabets();
-//        MyChar.printUpperCaseAlphabets();
 
     }
 
