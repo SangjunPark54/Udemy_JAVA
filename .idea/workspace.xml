@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a55e096-842c-4354-867d-5d46663379d3" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section10/Conditionals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section10/IfAndSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section10/IfAndSwitchRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section10/IfCondition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/MyChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section9/MyChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
