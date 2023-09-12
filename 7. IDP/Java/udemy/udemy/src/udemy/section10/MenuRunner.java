@@ -30,20 +30,15 @@ public class MenuRunner {
         System.out.println("choice " + choice);
 
         if(choice == 1) {
-            int result = number1 + number2;
-            System.out.println("Result is " + result);
+            System.out.println("Result is " + (number1 + number2));
         } else if(choice == 2) {
-            int result = number1 - number2;
-            System.out.println("Result is " + result);
+            System.out.println("Result is " + (number1 - number2));
         } else if(choice ==3) {
-            int result = number1 / number2;
-            System.out.println("Result is " + result);
+            System.out.println("Result is " + (number1 / number2));
         } else if (choice == 4) {
-            int result = number1 * number2;
-            System.out.println("Result is " + result);
+            System.out.println("Result is " + (number1 * number2));
         } else {
             System.out.println("Invalid Operation");
         }
-
     }
 }
