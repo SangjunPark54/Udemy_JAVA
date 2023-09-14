@@ -17,6 +17,26 @@ public class puzzle {
             System.out.println(4);
         }
     }
+    private static void puzzle1swtich() {
+            int number = 2;
+            switch (number) {
+                case 1:
+                    System.out.println(1);
+                case 2:
+                    System.out.println(2);
+                case 3:
+                case 4:
+                    System.out.println(3);
+                    break;
+                    // fall through
+                default:
+                    // switch문 제일 처음에 정의할 수 있음
+                    // char, int, byte, short, enum, string에서만 switch에서만 사용
+                    // case에 operation을 넣을 수 없음. case 5: 만 가능
+                    System.out.println("default");
+            }
+        }
+
 // 조건이 참이 되면 뒤의 조건은 실행되지 않는다.
     private static void puzzle2() {
         int l = 15;
