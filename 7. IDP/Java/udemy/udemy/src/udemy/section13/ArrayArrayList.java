@@ -29,5 +29,12 @@ public class ArrayArrayList {
             sum1 = sum1 + array;
             }
         System.out.println(sum1);
+
+        int[] pays = { 100000, 20000, 30000, 40000};
+        int paysum = 0;
+        for(int pay:pays) {
+            paysum = paysum + pay;
         }
+        System.out.println(paysum);
+    }
 }

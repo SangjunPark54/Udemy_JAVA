@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a55e096-842c-4354-867d-5d46663379d3" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section12/LocalDateClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section12/WrapperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/ArrayArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/ArrayExcercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/StudentRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section12/StringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section12/StringClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/ArrayArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/ArrayArrayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
     "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayArrayList">
+  <component name="RunManager" selected="Application.StudentRunner">
     <configuration name="ArrayArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="udemy.section13.ArrayArrayList" />
       <module name="udemy" />
@@ -85,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Constructor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.test.Constructor1" />
+    <configuration name="ArrayExcercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section13.ArrayExcercise" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.test.*" />
+          <option name="PATTERN" value="udemy.section13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.section12.StringClass" />
+    <configuration name="StudentRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section13.StudentRunner" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.section12.*" />
+          <option name="PATTERN" value="udemy.section13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,18 +179,18 @@
       <item itemvalue="Application._01_multiple_tables" />
       <item itemvalue="Application.multiple_tables" />
       <item itemvalue="Application.ArrayArrayList" />
-      <item itemvalue="Application.Constructor1" />
+      <item itemvalue="Application.ArrayExcercise" />
       <item itemvalue="Application.LocalDateClasses" />
-      <item itemvalue="Application.StringClass" />
+      <item itemvalue="Application.StudentRunner" />
       <item itemvalue="Application.WrapperClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentRunner" />
+        <item itemvalue="Application.ArrayExcercise" />
         <item itemvalue="Application.ArrayArrayList" />
         <item itemvalue="Application.LocalDateClasses" />
         <item itemvalue="Application.WrapperClass" />
-        <item itemvalue="Application.StringClass" />
-        <item itemvalue="Application.Constructor1" />
       </list>
     </recent_temporary>
   </component>
