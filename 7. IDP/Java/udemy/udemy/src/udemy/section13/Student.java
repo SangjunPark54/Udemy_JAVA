@@ -2,21 +2,29 @@ package udemy.section13;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
+import java.util.ArrayList;
 
 public class Student {
 
     private String name;
-    private int[] marks;
+    private ArrayList<Integer> marks = new ArrayList<Integer>();
 
     //constructor
-    public Student(String name, int[] marks) {
+//    public Student(String name, int[] marks) {
+//        this.name = name;
+//        this.marks = marks;
+//    }
+    public Student(String name, int... marks) {
         this.name = name;
-        this.marks = marks;
+
+        for (int mark : marks) {
+            this.marks.add(mark);
+        }
     }
 
     public int getNumberOfMarks() {
         //return Arrays.toString(marks);
-        return marks.length;
+        return marks.size();
     }
 
     public int getTotalSumOfMarks() {
@@ -54,5 +62,16 @@ public class Student {
         int sum = getTotalSumOfMarks();
         int number = getNumberOfMarks();
         return new BigDecimal(sum).divide(new BigDecimal(number), 3, RoundingMode.UP);
+    }
+
+    public void addMarks(int mark) {
+        marks.add(mark);
+    }
+    public void removeMarks(int mark) {
+        marks.remove(mark);
+    }
+
+    public String toString() {
+        return name + marks;
     }
 }

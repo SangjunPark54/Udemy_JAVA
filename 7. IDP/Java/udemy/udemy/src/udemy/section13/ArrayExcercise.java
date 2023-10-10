@@ -45,9 +45,20 @@ public class ArrayExcercise {
 
 
         }
+    }
 
-        public class Person {
-
+    public static class Week {
+        String week[] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
+        public int getMaxWeek() {
+            int maxlength = 0;
+            for (int i = 0; i <= week.length; i++) {
+                int length = week.length;
+                if (maxlength < length) {
+                    maxlength = length;
+                }
+            }
+            return maxlength;
         }
     }
 }
+

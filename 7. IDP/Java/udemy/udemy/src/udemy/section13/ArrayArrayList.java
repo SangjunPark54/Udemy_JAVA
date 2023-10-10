@@ -37,4 +37,15 @@ public class ArrayArrayList {
         }
         System.out.println(paysum);
     }
+    /*
+    ArrayList
+    - ArrayList arrayList = new ArrayList();
+      arrayList.add("Apple");
+      arrayList.add("Bat");
+      arrayList.add("Cat");
+      arrayList.remove("Apple");
+      타입을 명시하는게 좋음
+      ArrayList<String> items = new ArrayList<String>();
+       # <> Generic :
+     */
 }
