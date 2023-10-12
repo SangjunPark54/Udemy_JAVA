@@ -47,7 +47,7 @@ public class NumberMagic {
     만일 number또는 limit가 0보다 작거나 같다면 메서드는 빈 리스트를 리턴해야 합니다.
      */
     public static List<Integer> determineMultiples(int number, int limit) {
-        List multipleNumbers = new ArrayList<>();
+        List<Integer> multipleNumbers = new ArrayList<>();
         if (number <= 0 || limit <= 0) {
             return new ArrayList<>();
         }

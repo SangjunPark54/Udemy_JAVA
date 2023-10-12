@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a55e096-842c-4354-867d-5d46663379d3" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/ArrayMagic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/BiArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/ExerciseRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/NumberMagic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section20/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section20/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section20/BookRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section20/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section20/CustomerRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section20/FanClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section20/FanRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section20/RectangleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section20/RectangleRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section20/Review.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/ArrayArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/ArrayArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/ArrayExcercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/ArrayExcercise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/StudentRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/StudentRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/test/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/NumberMagic.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/section13/NumberMagic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +78,18 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberMagic">
-    <configuration name="ArrayExcercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.section13.ArrayExcercise" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="udemy.section20" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BookRunner">
+    <configuration name="BookRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section20.BookRunner" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.section13.*" />
+          <option name="PATTERN" value="udemy.section20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerciseRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.section13.ExerciseRunner" />
+    <configuration name="CustomerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section20.CustomerRunner" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.section13.*" />
+          <option name="PATTERN" value="udemy.section20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FanRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section20.FanRunner" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.section20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,25 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.test.Runner" />
+    <configuration name="RectangleRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.section20.RectangleRunner" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.section13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.section13.StudentRunner" />
-      <module name="udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udemy.section13.*" />
+          <option name="PATTERN" value="udemy.section20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,19 +190,19 @@
     <list>
       <item itemvalue="Application._01_multiple_tables" />
       <item itemvalue="Application.multiple_tables" />
-      <item itemvalue="Application.ExerciseRunner" />
+      <item itemvalue="Application.BookRunner" />
+      <item itemvalue="Application.CustomerRunner" />
+      <item itemvalue="Application.FanRunner" />
       <item itemvalue="Application.NumberMagic" />
-      <item itemvalue="Application.Runner" />
-      <item itemvalue="Application.ArrayExcercise" />
-      <item itemvalue="Application.StudentRunner" />
+      <item itemvalue="Application.RectangleRunner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookRunner" />
+        <item itemvalue="Application.CustomerRunner" />
+        <item itemvalue="Application.RectangleRunner" />
+        <item itemvalue="Application.FanRunner" />
         <item itemvalue="Application.NumberMagic" />
-        <item itemvalue="Application.StudentRunner" />
-        <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.ExerciseRunner" />
-        <item itemvalue="Application.ArrayExcercise" />
       </list>
     </recent_temporary>
   </component>
