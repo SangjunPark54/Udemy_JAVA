@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a55e096-842c-4354-867d-5d46663379d3" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/pc/BreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/pc/ChooseLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/pc/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/pc/NumberMagic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/sction20/ObjectPrograming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/sction20/_01_DesignClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/list/SortingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/list/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/list/StudentsCollectionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/list/collections.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/_04_exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/7. IDP/Java/udemy/udemy/src/udemy/_04_exercises.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,35 +68,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.NumberMagic">
-    <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.pc.BreakAndContinue" />
-      <module name="udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udemy.pc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.StudentsCollectionRunner">
     <configuration name="ChooseLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="udemy.pc.ChooseLoop" />
-      <module name="udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udemy.pc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.pc.DoWhile" />
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
@@ -117,6 +88,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="udemy.pc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.list.SortingList" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentsCollectionRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="udemy.list.StudentsCollectionRunner" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="udemy.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,7 +139,7 @@
       <module name="udemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="udemy.*" />
+          <option name="PATTERN" value="udemy.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,19 +175,19 @@
     <list>
       <item itemvalue="애플리케이션._01_multiple_tables" />
       <item itemvalue="애플리케이션.multiple_tables" />
+      <item itemvalue="애플리케이션.SortingList" />
+      <item itemvalue="애플리케이션.StudentsCollectionRunner" />
       <item itemvalue="애플리케이션.NumberMagic" />
       <item itemvalue="애플리케이션._04_exercises" />
-      <item itemvalue="애플리케이션.BreakAndContinue" />
       <item itemvalue="애플리케이션.ChooseLoop" />
-      <item itemvalue="애플리케이션.DoWhile" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.StudentsCollectionRunner" />
+        <item itemvalue="애플리케이션.SortingList" />
         <item itemvalue="애플리케이션.NumberMagic" />
         <item itemvalue="애플리케이션._04_exercises" />
         <item itemvalue="애플리케이션.ChooseLoop" />
-        <item itemvalue="애플리케이션.BreakAndContinue" />
-        <item itemvalue="애플리케이션.DoWhile" />
       </list>
     </recent_temporary>
   </component>
